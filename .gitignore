@@ -1,0 +1,29 @@
+# Build
+build/
+*.o
+*.obj
+moc_*.cpp
+qrc_*.cpp
+Makefile
+.qmake.stash
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+CMakeLists.txt.user
+
+# Debian packaging
+debian/usr/bin/
+debian/DEBIAN/
+*.deb
