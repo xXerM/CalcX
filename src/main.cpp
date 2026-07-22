@@ -8,7 +8,7 @@ int main(int argc, char *argv[]) {
     app.setApplicationDisplayName("CalcX");
     app.setApplicationVersion("1.0.0");
 
-    app.setWindowIcon(QIcon(":/src/icons/CalcX.svg"));
+    app.setWindowIcon(QIcon(":/src/icons/Calcx.svg"));
 
     Calculator calc;
     calc.show();

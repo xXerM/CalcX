@@ -1,5 +1,5 @@
 <RCC>
     <qresource prefix="/">
-        <file>src/icons/CalcX.svg</file>
+        <file>src/icons/Calcx.svg</file>
     </qresource>
 </RCC>
