@@ -59,13 +59,6 @@ Click the **⚙** button to open theme settings:
 - **CalcX - System**: Auto-detects your system dark/light mode
 - **CUSTOM**: Unlock full control over every color, shape, and opacity
 
-## Developer
-
-**Ferhathan Demirel**
-
-- Website: [xerm.site](https://xerm.site)
-- Email: [contact@xerm.site](mailto:contact@xerm.site)
-
 ## License
 
 MIT
