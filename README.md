@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="src/icons/Calcx.svg" alt="CalcX Logo" width="128">
+</p>
+
 # CalcX
 
 A modern, fully customizable calculator for Linux. Built with Qt6 and C++.
