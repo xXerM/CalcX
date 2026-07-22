@@ -653,7 +653,7 @@ void Calculator::showAbout() {
     auto *sep = new QLabel("<hr style='border: 0; border-top: 1px solid " + mutedColor + "33;'>");
     sep->setTextFormat(Qt::RichText);
 
-    auto *dev = new QLabel("Developer: Ferhathan Demirel");
+    auto *dev = new QLabel("Developer: xxerm");
     dev->setAlignment(Qt::AlignCenter);
     dev->setStyleSheet(QString("color: %1; font-size: 12px;").arg(mutedColor));
 
@@ -662,7 +662,7 @@ void Calculator::showAbout() {
     contact->setAlignment(Qt::AlignCenter);
     contact->setStyleSheet("font-size: 12px;");
 
-    auto *website = new QLabel(QString("<a href='https://xerm.site' style='color: %1; text-decoration: none;'>xerm.site</a>").arg(accent));
+    auto *website = new QLabel(QString("<a href='https://github.com/xXerM/CalcX' style='color: %1; text-decoration: none;'>github.com/xXerM/CalcX</a>").arg(accent));
     website->setOpenExternalLinks(true);
     website->setAlignment(Qt::AlignCenter);
     website->setStyleSheet("font-size: 12px;");
